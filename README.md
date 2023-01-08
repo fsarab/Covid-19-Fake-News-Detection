@@ -1,6 +1,6 @@
 # COVID-19 Fake News Detection
 ## Description
-This project is a Fake News Detection for the Machine Learning Course at Tehran-Polytechnic (AUT) University . The goal is classification task (real vs fake) and benchmark the annotated dataset with machine learning techniques.
+This project is a NLP for the Machine Learning Course at Tehran-Polytechnic (AUT) University . The goal is classification task (real vs fake) and benchmark the annotated dataset with machine learning techniques.
 Fake news and rumors are rampant on social media.We annotated dataset with four machine learning baselines - Decision Tree, Logistic Regression, Gradient Boost, and Support Vector Machine (SVM). We obtain the best performance of 93.46% F1-score with SVM.
 
 ## Challenge
