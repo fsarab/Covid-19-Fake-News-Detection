@@ -38,7 +38,9 @@ website:
 
 • Fake: coronavirus, covid19, people, will, new, trump, says, video, vaccine, virus. 
 
-• Real: covid19, cases, new, tests, number, total, people, reported, confirmed, states. • Combined: covid19,cases,coronavirus, new, people, tests, number, will, deaths, total.
+• Real: covid19, cases, new, tests, number, total, people, reported, confirmed, states. 
+
+• Combined: covid19,cases,coronavirus, new, people, tests, number, will, deaths, total.
 
 ### **Decision Tree**
 
